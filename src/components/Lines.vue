@@ -36,7 +36,7 @@
             background: #000;
             height: 100%;
             box-sizing: border-box;
-            /*border-right: white 1px solid;*/
+            /*border-right: white 1px soliddd;*/
             position: absolute;
         }
         li:nth-child(1){
