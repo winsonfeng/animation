@@ -1,29 +1,10 @@
-# ani hello
+# 这是一个页面切换动画模板
 
-## Project setup
+在路由切换的时候有动画加载，同时作用于进入跟离开。
+
+## 开始
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 使用方法
+将元素的class新加一个'block'

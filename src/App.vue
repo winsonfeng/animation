@@ -47,7 +47,6 @@
                     block[i].appendChild(sp)
                     let newBlock = block[i].childNodes[1]
                     let text = block[i].childNodes[0]
-                    console.log(text)
                     let lines = document.getElementsByClassName('lines')
                     let line = document.getElementsByClassName('line')
                     let t1 = new TimelineMax({
