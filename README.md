@@ -7,4 +7,4 @@
 npm install
 ```
 ## 使用方法
-将元素的class新加一个'block'
+将元素的class新加一个'block',如div
