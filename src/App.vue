@@ -21,7 +21,6 @@
 </template>
 
 <script>
-    // import Velocity from 'velocity-animate'
     import Lines from './components/Lines'
     import Loading from "./components/Loading";
 
